@@ -2,6 +2,8 @@ import pygame
 from helpers import screen
 from constants import WINDOW_WIDTH, WINDOW_HEIGHT, BLACK
 
+#איתי המלך
+
 
 def main():
     # Set up the game display, clock and headline
